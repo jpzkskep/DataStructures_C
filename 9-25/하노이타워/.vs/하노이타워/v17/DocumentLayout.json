@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leejaebin\\Desktop\\c\\\uD558\uB178\uC774\uD0C0\uC6CC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA61880-45E3-4B36-8BC3-D9DF1B334F6A}|\uD558\uB178\uC774\uD0C0\uC6CC.vcxproj|C:\\Users\\leejaebin\\Desktop\\c\\\uD558\uB178\uC774\uD0C0\uC6CC\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EA61880-45E3-4B36-8BC3-D9DF1B334F6A}|\uD558\uB178\uC774\uD0C0\uC6CC.vcxproj|solutionrelative:FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\leejaebin\\Desktop\\c\\\uD558\uB178\uC774\uD0C0\uC6CC\\FileName.c",
+              "RelativeDocumentMoniker": "FileName.c",
+              "ToolTip": "C:\\Users\\leejaebin\\Desktop\\c\\\uD558\uB178\uC774\uD0C0\uC6CC\\FileName.c",
+              "RelativeToolTip": "FileName.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-25T00:59:08.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

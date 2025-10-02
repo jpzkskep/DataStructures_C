@@ -1,0 +1,8 @@
+﻿  ArrayList.c
+  NameCard.c
+C:\Users\leejaebin\Desktop\c\name리스트\NameCard.c(8,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\leejaebin\Desktop\c\name리스트\NameCard.c(9,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\leejaebin\Desktop\c\name리스트\NameCard.c(23,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  NameCardListMain.c
+  코드를 생성하고 있습니다...
+  name리스트.vcxproj -> C:\Users\leejaebin\Desktop\c\name리스트\x64\Debug\name리스트.exe
